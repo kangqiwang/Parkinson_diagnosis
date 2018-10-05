@@ -31,3 +31,10 @@
 生成多项式特征
 X 的特征已经从 (X_1, X_2) 转换为 (1, X_1, X_2, X_1^2, X_1X_2, X_2^2) 。
 
+
+CNN
+如何运作
+
+
+1.	create data
+2.	create tensorflow structure
